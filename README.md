@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+There's probably nothing visible here, since having been a professional developer for 40+ years
+almost everything I've ever done is not open source (and while I often write things that could
+be, I'm generally happy just noodling on them by myself) so the repositories I have are mostly
+private.
+
+<link rel="me" href="https://mastodon.nz/@nigel_bree">Mastodon</a>
