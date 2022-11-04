@@ -20,4 +20,4 @@ almost everything I've ever done is not open source (and while I often write thi
 be, I'm generally happy just noodling on them by myself) so the repositories I have are mostly
 private.
 
-<link rel="me" href="https://mastodon.nz/@nigel_bree"></a>
+<a rel="me" href="https://mastodon.nz/@nigel_bree">On Mastodon</a>
