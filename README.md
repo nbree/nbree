@@ -19,7 +19,3 @@ There's probably nothing visible here, since having been a professional develope
 almost everything I've ever done is not open source (and while I often write things that could
 be, I'm generally happy just noodling on them by myself) so the repositories I have are mostly
 private.
-
-<div>
-<a rel="me" href="https://mastodon.nz/@nigel_bree">On Mastodon</a>
-</div>
